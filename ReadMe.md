@@ -241,8 +241,8 @@ MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## 🙋 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/cloudops-buddy/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/cloudops-buddy/discussions)
+- **Issues**: [GitHub Issues](https://github.com/pranavyaligouda7/cloudops-buddy/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/pranavyaligouda7/cloudops-buddy/discussions)
 
 ---
 
