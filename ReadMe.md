@@ -248,7 +248,7 @@ MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## ✍️ Authors
 
-- Pranav Yaligouda – [@pranavyaligoudau7](https://github.com/pranavyaligouda7)
+- Pranav Yaligouda – [@pranavyaligouda7](https://github.com/pranavyaligouda7)
 
 ---
 
